@@ -1,0 +1,8 @@
+## Bias in AI-Powered Personalized Medicine
+
+AI models trained on unbalanced datasets (e.g., underrepresented ethnic groups) can result in biased treatment recommendations.
+
+### Strategies:
+- Use diverse, representative training data (e.g., TCGA across demographics).
+- Implement fairness-aware learning algorithms.
+- Continuous monitoring of model output for bias.
