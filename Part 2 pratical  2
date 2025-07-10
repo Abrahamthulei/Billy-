@@ -1,0 +1,13 @@
+## AI-Driven Smart Agriculture System
+
+### Sensors:
+- Soil Moisture
+- Temperature
+- Light Intensity
+- pH Level
+
+### AI Model:
+- Random Forest or LSTM to predict crop yield based on historical sensor trends.
+
+### Output:
+- Data-driven irrigation and fertilization scheduling.
