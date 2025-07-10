@@ -1,0 +1,7 @@
+## TensorFlow Lite Model Conversion
+
+- Trained model: MobileNetV2 on recyclable items dataset.
+- Converted using: `tf.lite.TFLiteConverter.from_saved_model()`
+- Benefits:
+  - Real-time classification
+  - Energy-efficient inference on low-power devices
