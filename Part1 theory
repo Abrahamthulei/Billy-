@@ -1,0 +1,7 @@
+## Edge AI: Reducing Latency and Enhancing Privacy
+
+**Edge AI** processes data locally on devices like smartphones or IoT sensors. This eliminates round-trip delays to the cloud, dramatically reducing latency. Additionally, sensitive data (like faces or voice) stays on the device, enhancing user privacy.
+
+### Real-World Example
+
+In **autonomous drones**, Edge AI enables real-time object detection and navigation without waiting for cloud responses—critical for safety and performance.
